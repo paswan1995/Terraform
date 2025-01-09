@@ -36,7 +36,7 @@
 * Template
 * Providers 
  
-![preview](images/3.png)
+![preview](images/1.png)
 
 * Resources
 ![preview](images/2.png)
@@ -50,7 +50,7 @@
 
 * refer: https://developer.hashicorp.com/terraform/install
 * configure aws to your terminal 
-![preview](images/1.png)
+![preview](images/3.png)
 
 * Hello terraform
    * Create a new folder
